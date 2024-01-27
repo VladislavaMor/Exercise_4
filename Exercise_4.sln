@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task_1", "Task_1\Task_1.csproj", "{2E5C095A-9A29-4824-9ABF-462DFC7F1BA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{B0D77EB8-A913-4E1B-9039-200B27B46828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife", "GameOfLife\GameOfLife.csproj", "{AC1C475A-4C6E-4FC5-B142-300A247ACFC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E5C095A-9A29-4824-9ABF-462DFC7F1BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5C095A-9A29-4824-9ABF-462DFC7F1BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5C095A-9A29-4824-9ABF-462DFC7F1BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5C095A-9A29-4824-9ABF-462DFC7F1BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0D77EB8-A913-4E1B-9039-200B27B46828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D77EB8-A913-4E1B-9039-200B27B46828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D77EB8-A913-4E1B-9039-200B27B46828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D77EB8-A913-4E1B-9039-200B27B46828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1C475A-4C6E-4FC5-B142-300A247ACFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1C475A-4C6E-4FC5-B142-300A247ACFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1C475A-4C6E-4FC5-B142-300A247ACFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1C475A-4C6E-4FC5-B142-300A247ACFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59AEACD0-D8BE-46EB-85BE-2096839FA531}
+	EndGlobalSection
+EndGlobal
